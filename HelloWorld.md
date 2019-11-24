@@ -1,3 +1,1 @@
-# testR
-
-This repository is for coursera.
+## This is a markdown file
